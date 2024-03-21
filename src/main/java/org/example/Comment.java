@@ -7,6 +7,8 @@ public class Comment {
     private String email;
     private String body;
 
+    private String brother;
+
     public Comment() {
     }
 
