@@ -15,3 +15,5 @@ S
 #src/main/java/org/example/Post.java,e\b\eb9f46700ce72400841f656f8f612b8729152cc7
 Y
 )src/main/java/org/example/HelloWorld.java,b\2\b27162d0d0d9ccf3f1a68c8a77b1724db7d9f74b
+S
+#src/main/java/org/example/Sopa.java,e\9\e9631408518b493147badae65c882a47d6983058
