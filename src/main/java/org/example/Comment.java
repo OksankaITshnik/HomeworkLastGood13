@@ -5,7 +5,7 @@ public class Comment {
     private long postId;
     private String name;
     private String email;
-    private String body;
+    private String head;
 
     private String brother;
 
